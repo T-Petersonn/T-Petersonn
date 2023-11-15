@@ -1,4 +1,4 @@
-<h1>Hi, I'm Troy! <br/><a href="https://www.linkedin.com/in/Troypetersonjr/">Student at Morehouse College</a>, <a href="https://github.com/T-Petersonn">Programmer</a></h1>
+<h1>Hi, I'm Troy! <br/><a href="https://www.linkedin.com/in/Troypetersonjr/">Student</a>, <a href="https://github.com/T-Petersonn">Programmer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
