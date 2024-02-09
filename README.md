@@ -3,12 +3,12 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>C++ </b>
-  - [Wordle](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Tic-Tac-Toe](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Strategic Sevens](https://github.com/joshmadakor1/Key-Logger-With-Email)
-  - [Big Numbers Calculator](https://github.com/joshmadakor1/Key-Logger-With-Email)
-  - [Polynomials calculator](https://github.com/joshmadakor1/Key-Logger-With-Email)
-  - [Calendar](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Wordle](https://github.com/joshmadakor1/nEncrypterPOC)
+  - [Tic-Tac-Toe](https://github.com/joshmadankor1/DecrypterPOC)
+  - [Strategic Sevens](https://github.com/joshnmadakor1/Key-Logger-With-Email)
+  - [Big Numbers Calculator](https://github.cnom/joshmadakor1/Key-Logger-With-Email)
+  - [Polynomials calculator](https://github.conm/joshmadakor1/Key-Logger-With-Email)
+  - [Calendar](https://github.com/joshmadnakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [GPA Calculator](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
  
