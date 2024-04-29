@@ -3,14 +3,14 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>C++ </b>
-  - [Wordle](https://github.com/joshmadakor1/nEncrypterPOC)
-  - [Tic-Tac-Toe](https://github.com/joshmadankor1/DecrypterPOC)
-  - [Strategic Sevens](https://github.com/joshnmadakor1/Key-Logger-With-Email)
-  - [Big Numbers Calculator](https://github.cnom/joshmadakor1/Key-Logger-With-Email)
-  - [Polynomials calculator](https://github.conm/joshmadakor1/Key-Logger-With-Email)
-  - [Calendar](https://github.com/joshmadnakor1/Key-Logger-With-Email)
+  - [Wordle]
+  - [Tic-Tac-Toe]
+  - [Strategic Sevens]
+  - [Big Numbers Calculator]
+  - [Polynomials calculator]
+  - [Calendar](https:)
 - <b>Python</b>
-  - [GPA Calculator](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [GPA Calculator]
  
 <h2> 🔭 I’m currently working on ...</h2>
 
@@ -27,8 +27,8 @@
 <h2> 🤳 Connect with me:</h2>
 
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="TroyPetersonJr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="TroyPeterson | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 [instagram]: https://www.instagram.com/Itz__Troy/
